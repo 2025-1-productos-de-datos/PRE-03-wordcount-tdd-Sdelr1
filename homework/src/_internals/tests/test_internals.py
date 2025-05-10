@@ -75,5 +75,3 @@ def test_write_word_counts():
 
     # Clean up
     shutil.rmtree(output_folder)
-
-    
